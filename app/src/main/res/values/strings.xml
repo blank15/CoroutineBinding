@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">CoroutineBinding</string>
+    <string name="email">Email</string>
+    <string name="enter_your_email">enter your email</string>
+    <string name="passwrod">Password</string>
+    <string name="enter_your_password">enter your password</string>
+    <string name="forgot_password">Forgot Password?</string>
+    <string name="sign_in">Sign In</string>
+</resources>
